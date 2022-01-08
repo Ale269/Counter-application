@@ -18,7 +18,9 @@ project analysis.
 
 ## Description
 
-The project required to create a counter which, starting from the number 0 when the page is loaded, would allow the user to increase or decrease the value by one unit after pressing one of the two buttons present..
+The project required to create a counter which, starting from the number 0 when the page is loaded, would allow the user to increase or decrease the value by one unit after pressing one of the two buttons present.
+
+- Try the website - [link to the website](https://counter-ale269.netlify.app/)
 
 #### Built with
 
