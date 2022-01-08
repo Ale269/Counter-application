@@ -7,7 +7,7 @@
 ---
 
 ### Table of Contents
-project analysis.
+Project analysis.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
