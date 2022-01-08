@@ -1,6 +1,6 @@
 # Counter application project
 
-![Project Image](https://github.com/Ale269/Counter-application/blob/main/images/counter.png?raw=true)
+![Project Image](https://github.com/Ale269/Counter-application/blob/main/assets/images/counter.png?raw=true)
 
 > Test basic skills on javascript.
 
