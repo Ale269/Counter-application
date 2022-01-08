@@ -1,6 +1,6 @@
 # Counter application project
 
-![Project Image](https://imgur.com/I6pzoKE)
+![Project Image](https://github.com/Ale269/Counter-application/blob/main/images/counter.png?raw=true)
 
 > Test basic skills on javascript.
 
@@ -174,6 +174,8 @@ This is the javascript lines of code, please pay attention to the link in the ht
 
 ## References
 
+I have studied mainly from these sources.
+
 - Start2Impact - [link to the website](https://www.start2impact.it/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand&gclid=Cj0KCQiAieWOBhCYARIsANcOw0w5QK43cTLhwCWpsKfugzdnDB3c2GLK78gn2BA0thbsMWDFx5T7NRwaAp8XEALw_wcB)
 - FreeCodeCamp - [link to the video](https://www.youtube.com/watch?v=jS4aFq5-91M&t=15115s)
 
@@ -182,6 +184,9 @@ This is the javascript lines of code, please pay attention to the link in the ht
 ---
 
 ## Author Info
+
+Hi, I am a 22 year old boy who recently decided to undertake a path to learn UX design and Full Stack web developing.
+If you like, visit my website.
 
 - My website - [My website link](https://ale269.github.io/website/)
 
