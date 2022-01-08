@@ -1,6 +1,6 @@
 # Counter application project
 
-![Project Image](https://imgur.com/a/rFAm9RF)
+![Project Image](https://imgur.com/xVCQf4X)
 
 > Test basic skills on javascript.
 
@@ -34,6 +34,8 @@ The project required to create a counter which, starting from the number 0 when 
 
 Copy this lines of code to get the application.
 
+This is the html lines of code.
+
 ```html
     <!DOCTYPE html>
     <html>
@@ -60,6 +62,7 @@ Copy this lines of code to get the application.
         </body>
     </html>
 ```
+This is the scss lines of code, please pay attention to the link in the html head.
 ```scss
     * {
     box-sizing: border-box;
@@ -136,6 +139,8 @@ Copy this lines of code to get the application.
 
     }
 ```
+This is the javascript lines of code, please pay attention to the link in the html head.
+
 ```javascript
     //variable list
     let counter = document.getElementById('counter-number');
