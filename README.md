@@ -1,6 +1,6 @@
 # Counter application project
 
-![Project Image](https://imgur.com/xVCQf4X)
+![Project Image](https://imgur.com/I6pzoKE)
 
 > Test basic skills on javascript.
 
