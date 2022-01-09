@@ -57,8 +57,8 @@ This are the html lines of code.
                 <div class="conteiner-counter">
                     <h2 id="counter-number">0</h2>
                 </div>
-                <button id="botton-increment">Increase</button>
-                <button id="botton-decrement">Decrease</button>
+                <button id="button-increment">Increase</button>
+                <button id="button-decrement">Decrease</button>
             </div>
             <script src="script/main.js"></script>
         </body>
@@ -133,7 +133,7 @@ This are the scss lines of code, please pay attention to the link in the html he
                 color: #C6C6C6;
             }
 
-            #bottom-increment {
+            #button-increment {
                 margin-bottom: 1em;
             }
 
@@ -146,8 +146,8 @@ This are the javascript lines of code, please pay attention to the link in the h
 ```javascript
     //variable list
     let counter = document.getElementById('counter-number');
-    let incrementBtn = document.getElementById('botton-increment');
-    let decrementBtn = document.getElementById('botton-decrement');
+    let incrementBtn = document.getElementById('button-increment');
+    let decrementBtn = document.getElementById('button-decrement');
 
     //function that increment number by one
     function increment() {
