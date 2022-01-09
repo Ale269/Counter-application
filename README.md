@@ -36,7 +36,7 @@ The project required to create a counter which, starting from the number 0 when 
 
 Copy this lines of code to get the application.
 
-This is the html lines of code.
+This are the html lines of code.
 
 ```html
     <!DOCTYPE html>
@@ -64,7 +64,7 @@ This is the html lines of code.
         </body>
     </html>
 ```
-This is the scss lines of code, please pay attention to the link in the html head.
+This are the scss lines of code, please pay attention to the link in the html head.
 ```scss
     * {
     box-sizing: border-box;
@@ -141,7 +141,7 @@ This is the scss lines of code, please pay attention to the link in the html hea
 
     }
 ```
-This is the javascript lines of code, please pay attention to the link in the html head.
+This are the javascript lines of code, please pay attention to the link in the html head.
 
 ```javascript
     //variable list
