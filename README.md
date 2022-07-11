@@ -20,7 +20,7 @@ Project analysis.
 
 The project required to create a counter which, starting from the number 0 when the page is loaded, would allow the user to increase or decrease the value by one unit after pressing one of the two buttons present.
 
-- Try the application - [link to the applicatin](https://counter-ale269.netlify.app/)
+- Try the application - [link to the application](https://counter-ale269.netlify.app/)
 
 #### Built with
 
